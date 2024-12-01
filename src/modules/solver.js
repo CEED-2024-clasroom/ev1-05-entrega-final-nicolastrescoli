@@ -23,4 +23,4 @@ function solveLetter(x, y, game, hiddenLetters) {
     }
 }
 
-export {solveLetter, eliminarPorValor};
+export {solveLetter};
